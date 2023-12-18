@@ -1,6 +1,6 @@
 # Gerenciamento Hotel
 
-<img src="/src/assets/illustration.PNG" width="100%" height="700px" />
+<img src="/src/assets/illustration.PNG" width="100%" height="" />
 
 ## Sobre
 
