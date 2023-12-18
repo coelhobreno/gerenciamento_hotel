@@ -4,7 +4,7 @@ const InfoCompany = () => {
   return (
     <Container>
       <AcessInfo>
-        <h2>MLab Website</h2>
+        <h2>Hotel Website</h2>
         <span>Lorem ipsum, dolor</span>
       </AcessInfo>
 
